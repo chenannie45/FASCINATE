@@ -12,4 +12,4 @@ The package contains the following files:
 Please refer to the demo code demo.m and comments in each file for the detailed information
 
 ## Refereces
-Chen Chen, Hanghang Tong, Lei Xie, Lei Ying, Qing He. FASCINATE: Fast Cross-layer Dependency Inference on Multi-layered Networks. 22nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2016. (*Full Presentation*)
+Chen Chen, Hanghang Tong, Lei Xie, Lei Ying, Qing He. FASCINATE: Fast Cross-layer Dependency Inference on Multi-layered Networks. 22nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2016. (*Bests of KDD2016*)
